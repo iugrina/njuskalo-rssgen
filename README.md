@@ -1,4 +1,4 @@
-# RSS generator for www.njuskalo.hr web page
+# RSS generator for www.njuskalo.hr
 
 [Njuškalo](www.njuskalo.hr) is the largest and most popular online
 classifieds in Croatia that daily connects hundreds of thousands of buyers and sellers
@@ -7,7 +7,7 @@ classifieds in Croatia that daily connects hundreds of thousands of buyers and s
 Unfortunately, it doesn't support RSS/Atom feeds.
 
 This application corrects that flaw! It is a simple Python program
-for generating RSS feeds for Njuškalo pages. For example,
+that generates RSS feeds for Njuškalo pages. For example,
 if you're following 
 [Playstation3](http://www.njuskalo.hr/ps3-igre) games market
  on Njuškalo you can easily adjust `njuskalo-rssgen` to
